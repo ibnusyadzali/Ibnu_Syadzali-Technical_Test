@@ -1,0 +1,10 @@
+[
+    {
+        "name":"Habib Rahmat",
+        "id_jabatan":1,
+        "age":26,
+        "gender": "L",
+        "tanggal_lahir": "1994-06-22",
+        "alamat": "Jl.Alhambra"
+    }
+]

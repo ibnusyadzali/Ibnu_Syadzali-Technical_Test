@@ -1,0 +1,36 @@
+.Nav {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.logo {
+  width: auto;
+  height: 50px;
+  object-fit: cover;
+}
+
+.imgHome {
+  width: auto;
+  height: 400px;
+  object-fit: cover;
+  opacity: 0.7;
+  border-radius: 5rem;
+}
+
+.Scroll {
+  display: block;
+  height: 430px;
+  overflow: auto;
+  padding: 10;
+}
+
+Table {
+  border-radius: 1rem;
+  border-color: red;
+}
+
+thead,
+tbody tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
